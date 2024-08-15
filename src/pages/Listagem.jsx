@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react'
 import pizzas from '../shared/Pizzas'
 
 const Listagem = () => {
-
+//q
     const ItensLista = () => pizzas.map(
         pizza => 
         <li style={{listStyle: 'none'}}>
